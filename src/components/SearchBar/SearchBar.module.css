@@ -1,0 +1,22 @@
+.searchbar-form {
+  display: flex;
+  align-items: center;
+  position: relative;
+  width: 100%;
+}
+
+.searchbar-icon {
+  position: absolute;
+  left: 1rem;
+  top: calc(50% - 7px);
+}
+
+.searchbar-input {
+  display: block;
+  padding: 0.5rem 0.5rem 0.5rem 3rem;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  outline: none;
+  width: 100%;
+  font-family: inherit;
+}

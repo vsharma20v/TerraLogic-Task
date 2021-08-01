@@ -1,0 +1,16 @@
+<svg width="865px" height="774px" viewBox="0 0 865 774" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M394.567,188.678 L636.622,773 L605.174758,773 L377,212.010988 L394.567,188.678 Z M536.624111,0 L865,773 L669.864,773 L415.089,161.421 L536.624111,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.1">
+        <g id="Artboard" transform="translate(-51.000000, 1.000000)">
+            <g id="Group-43" transform="translate(51.000000, -0.235569)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <polygon id="Path-7" fill="#FFFFFF" points="345.203271 0 538 0 183.304104 773 0 773"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
